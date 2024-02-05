@@ -19,7 +19,7 @@ As part of your onboarding process, it's essential to familiarize yourself with 
 
 #### Developers API
 
-- Allows integration of our intuitive APIs and SDKs to unleash the utility of your project.
+- Allows integration of our intuitive APIs and SDKs to unleash the utility of projects.
 
 #### Payment Requests
 
@@ -49,7 +49,7 @@ Follow Chimoney on all social media platforms and engage with our content. This 
 
 ## 4: Start Spreading the Word
 
-Share your unique ambassador referral link with businesses. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
+Share your unique ambassador referral link with businesses you know can benefit from Chimoney. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
 
 **Here's How to get your Referral Link**
 - Sign up for a Chimoney account on [Dash.chimoney.io](https://dash.chimoney.io/)
