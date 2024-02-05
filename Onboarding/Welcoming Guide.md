@@ -39,8 +39,9 @@ Share your unique ambassador referral link with businesses. Encourage them to si
 ## 5: Engage with the Chimoney Community
 
 Join our ambassador-exclusive channels on Discord to connect with other ambassadors. 
-New Ambassadors Channel
-Alumni Ambassadors Channel
+
+- [New Ambassadors Channel](https://discord.gg/Qtbtfy6Zwr)
+- [Alumni Ambassadors Channel](https://discord.gg/E5p9Vtq9mx)
 
 ## 6: Stay Updated
 
