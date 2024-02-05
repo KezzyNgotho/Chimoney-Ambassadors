@@ -6,7 +6,7 @@
 
 - [ ] **Connect on Social Media:** Follow Chimoney on all social media platforms and engage with our content to stay updated on the latest news, promotions, and initiatives.
 
-- [ ] **Start Spreading the Word:** Share your unique ambassador referral link with your friends, family, and followers. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
+- [ ] **Start Spreading the Word:** Share your unique ambassador referral link with businesses you know that can benefit from Chimoney. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
 
 - [ ] **Engage with the Chimoney Community:** Join the Discord Channels and introduce yourself. 
 
