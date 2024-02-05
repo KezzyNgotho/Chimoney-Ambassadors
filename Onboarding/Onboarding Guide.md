@@ -29,7 +29,8 @@ Follow Chimoney on all social media platforms and engage with our content. This 
 ## 4: Start Spreading the Word
 
 Share your unique ambassador referral link with businesses. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
-**How to get your Referral Link**
+
+**Here's How to get your Referral Link**
 - Sign up for a Chimoney account on [Dash.chimoney.io](https://dash.chimoney.io/)
 - Select `Complete Later when prompted to `Complete your Personal Details`
 - Navigate to the tabs section on the left side of the dashboard and select `Referral`
