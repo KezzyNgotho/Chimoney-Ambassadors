@@ -1,4 +1,4 @@
-## Before you begin your journey as an ambassador, please complete the following onboarding tasks:
+## Before you begin your journey as an ambassador, please ensure you have completed the following onboarding tasks:
 
 - [ ] Read and Understood Onboarding Guide. 
 
