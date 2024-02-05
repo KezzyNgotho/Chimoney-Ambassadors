@@ -1,4 +1,4 @@
-**Before you begin your journey as an ambassador, please complete the following onboarding tasks:**
+## Before you begin your journey as an ambassador, please complete the following onboarding tasks:
 
 - [ ] **Read and understand the Onboarding Guide:** Familiarize yourself with Chimoney's mission, values, and the products or services we offer.
 
