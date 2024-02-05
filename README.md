@@ -1,6 +1,6 @@
 # Chimoney-Ambassadors Repo
 
-[Chimoney Logo](https://chimoney.io/assets/icons/chimoney-purple-logo.svg)
+![Chimoney Logo](https://chimoney.io/assets/icons/chimoney-purple-logo.svg)
 
 ## Welcome!
 
