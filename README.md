@@ -20,7 +20,8 @@ We welcome contributions from all ambassadors to enhance the repository and make
 
 ## Feedback
 
-Your feedback is essential for the continuous improvement of this repository. If you have any suggestions, ideas, or concerns, please don't hesitate to open an issue or reach out to the repository maintainers. We value your input and are committed to making this repository as useful and effective as possible.
+Your feedback is essential for the continuous improvement of this repository. If you have any suggestions, ideas, or concerns, please don't hesitate to open an issue. 
 
+You can also submit your feedback to this [anonymous form](https://forms.gle/wEviLeD2VskozTmB8).
 
 
