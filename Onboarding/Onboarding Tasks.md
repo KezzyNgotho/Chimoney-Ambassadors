@@ -1,14 +1,14 @@
 ## Before you begin your journey as an ambassador, please complete the following onboarding tasks:
 
-- [ ] **Read and understand the Onboarding Guide:** Familiarize yourself with Chimoney's mission, values, and the products or services we offer.
+- [ ] Read and Understood Onboarding Guide. 
 
-- [ ] **Review Ambassador Expectations:** Understand the expectations and responsibilities of being a Chimoney ambassador, including promoting Chimoney positively, engaging with our community, and upholding our brand image.
+- [ ] Understood Ambassador Expectations
 
-- [ ] **Connect on Social Media:** Follow Chimoney on all social media platforms and engage with our content to stay updated on the latest news, promotions, and initiatives.
+- [ ] Followed Chimoney on social media platforms for updates.
 
-- [ ] **Start Spreading the Word:** Share your unique ambassador referral link with businesses you know that can benefit from Chimoney. Encourage them to sign up with Chimoney using your link and experience the benefits firsthand.
+- [ ] Got your Referral Link.
 
-- [ ] **Engage with the Chimoney Community:** Join the Discord Channels and introduce yourself. 
+- [ ] Joined the Ambassador Discord Channels and Introduced Yourself. 
 
 
 ## Onboarding Completion Instructions:
