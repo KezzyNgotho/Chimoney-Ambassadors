@@ -6,7 +6,7 @@
 
 - [ ] Followed Chimoney on social media platforms for updates.
 
-- [x] Got your Referral Link.
+- [  ] Got your Referral Link.
 
 - [ ] Joined the Ambassador Discord Channels and Introduced Yourself. 
 
