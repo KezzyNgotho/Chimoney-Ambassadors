@@ -76,4 +76,4 @@ Keep an eye out for communications from the Chimoney team, including newsletters
 
 ## 8: Have Fun and Be Authentic
 
-Above all, remember to have fun and be yourself as a Chimoney ambassador. Authenticity is key to building trust and credibility with your audience ❤️
+Above all, remember to have fun and be yourself as a Chimoney ambassador. Authenticity is key to building trust and credibility with our audience ❤️
