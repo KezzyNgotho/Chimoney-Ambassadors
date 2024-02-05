@@ -11,7 +11,7 @@ Improve quality of life for all through fair access to rewards
 
 ## 2: Chimoney Products Guide
 
-As part of your onboarding process, it's essential to familiarize yourself with these products to better understand Chimoney's services.
+As part of your onboarding process, it's essential to familiarize yourself with our products to better understand Chimoney's services.
 
 #### Payouts
 
@@ -19,7 +19,7 @@ As part of your onboarding process, it's essential to familiarize yourself with 
 
 #### Developers API
 
-- Allows integration of intuitive APIs and SDKs to unleash the utility of your project.
+- Allows integration of our intuitive APIs and SDKs to unleash the utility of your project.
 
 #### Payment Requests
 
