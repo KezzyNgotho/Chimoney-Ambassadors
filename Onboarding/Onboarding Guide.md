@@ -2,6 +2,7 @@
  ## 1: Introduction to Chimoney
 
 Understanding our brand identity is key to effectively representing us as an ambassador. </br>
+
 **Chimoney's Mision:**
 Unlock Economic Opportunities For Everyone.
 
