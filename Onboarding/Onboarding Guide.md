@@ -13,21 +13,21 @@ Improve quality of life for all through fair access to rewards
 
 As part of your onboarding process, it's essential to familiarize yourself with these products to better understand Chimoney's services.
 
-## 1. Payouts
+#### Payouts
 
-**Description:** Allows sending of bulk payouts to people in different countries and with different preferences at once with just their email or phone number. It's simple, easy, and instant!
+- Allows sending of bulk payouts to people in different countries and with different preferences at once with just their email or phone number. It's simple, easy, and instant!
 
-## 2. Developers API
+#### Developers API
 
-**Description:** Allows integration of intuitive APIs and SDKs to unleash the utility of your project.
+- Allows integration of intuitive APIs and SDKs to unleash the utility of your project.
 
-## 3. Payment Requests
+#### Payment Requests
 
-**Description:** Allows Payment of invoices in one click.
+- Allows Payment of invoices in one click.
 
-## 4. Wallet as a Service
+#### Wallet as a Service
 
-**Description:** Allows users to create and manage user wallets with ease.
+- Allows users to create and manage user wallets with ease.
 
 ## 2: Review Ambassador Expectations
 
