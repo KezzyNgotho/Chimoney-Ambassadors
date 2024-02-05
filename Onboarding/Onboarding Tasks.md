@@ -6,7 +6,7 @@
 
 - [ ] Followed Chimoney on social media platforms for updates.
 
-- [  ] Got your Referral Link.
+- [ ] Got your Referral Link.
 
 - [ ] Joined the Ambassador Discord Channels and Introduced Yourself. 
 
@@ -19,7 +19,7 @@ Every ambassador is required to tick off all the onboarding tasks listed above b
 
 2. **Complete Onboarding Tasks:** Perform all the onboarding tasks listed above.
 
-3. **Tick Off Tasks:** As you complete each task, tick off the corresponding checkbox.
+3. **Tick Off Tasks:** As you complete each task, tick off the corresponding checkbox `by adding and x in the boxes`.
 
 4. **Submit a Pull Request:** Once you've completed all tasks, submit a pull request (PR) to the main repository.
 
