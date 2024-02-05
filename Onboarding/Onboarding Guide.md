@@ -3,19 +3,19 @@
 
 Understanding our brand identity is key to effectively representing us as an ambassador. </br>
 
-**Chimoney's Mision:**
+- **Chimoney's Mision:**
 Unlock Economic Opportunities For Everyone.
 
-**Chimoney's Vision:**
+- **Chimoney's Vision:**
 Improve quality of life for all through fair access to rewards
 
 ## 2: Review Ambassador Expectations
 
 Make sure you understand the expectations and responsibilities of being a Chimoney ambassador. This includes promoting Chimoney positively, engaging with our community, and upholding our brand image.
-- [] Brand Awareness
-- [] Community engagement
-- [] Event Representation
-- [] Event Organizing
+- [ ] Brand Awareness
+- [ ] Community engagement
+- [ ] Event Representation
+- [ ] Event Organizing
 
 ## 3: Connect on Social Media
 
