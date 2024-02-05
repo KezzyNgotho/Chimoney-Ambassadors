@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Welcome to the Chimoney Ambassadors Repository! This serves as a centralized platform for all resources, guides, and materials related to the Chimoney Ambassadors Program. 
+This repo serves as a centralized platform for all resources, guides, and materials related to the Chimoney Ambassadors Program. 
 
 ## Getting Started
 
