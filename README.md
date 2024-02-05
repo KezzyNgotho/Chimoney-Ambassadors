@@ -1,8 +1,7 @@
 # Chimoney-Ambassadors Repo
 
-<div style="text-align:center">
 ![Chimoney Logo](https://chimoney.io/assets/icons/chimoney-purple-logo.svg)
-</div>
+
 
 ## Welcome!
 
