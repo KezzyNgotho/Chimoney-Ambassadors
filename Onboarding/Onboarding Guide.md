@@ -12,6 +12,8 @@ Improve quality of life for all through fair access to rewards
 ## 2: Review Ambassador Expectations
 
 Make sure you understand the expectations and responsibilities of being a Chimoney ambassador. This includes promoting Chimoney positively, engaging with our community, and upholding our brand image.
+
+Expectations:
 - [ ] Brand Awareness
 - [ ] Community engagement
 - [ ] Event Representation
