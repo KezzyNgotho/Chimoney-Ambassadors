@@ -1,5 +1,7 @@
 # Chimoney-Ambassadors Repo
 
+https://chimoney.io/assets/icons/chimoney-purple-logo.svg
+
 ## Welcome!
 
 This repo serves as a centralized platform for all resources, guides, and materials related to the Chimoney Ambassadors Program. 
@@ -37,7 +39,7 @@ In addition to contributing resources and materials, we encourage ambassadors to
 
 ## Feedback
 
-Your feedback is essential for the continuous improvement of this repository. If you have any suggestions, ideas, or concerns, please don't hesitate to open an issue. 
+Your feedback is essential for the continuous improvement of this program. If you have any suggestions, ideas, or concerns, please don't hesitate to open an issue. 
 
 You can also submit your feedback to this [anonymous form](https://forms.gle/wEviLeD2VskozTmB8).
 
