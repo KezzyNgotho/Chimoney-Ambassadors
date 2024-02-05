@@ -31,8 +31,6 @@ As part of your onboarding process, it's essential to familiarize yourself with 
 
 ## 2: Review Ambassador Expectations
 
-Make sure you understand the expectations and responsibilities of being a Chimoney ambassador. This includes promoting Chimoney positively, engaging with our community, and upholding our brand image.
-
 Please ensure that you are prepared to fulfill these expectations as a Chimoney ambassador. You can use the checklist below to track your progress:
 
 - [ ] Brand Awareness
