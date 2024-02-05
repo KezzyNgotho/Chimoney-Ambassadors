@@ -16,8 +16,6 @@ To access the resources in this repository, simply navigate through the folders 
 
 ## Contributing
 
-## Contributing
-
 We value the contributions of all ambassadors to enhance the repository and make it more valuable for everyone. If you have any resources, guides, or materials that you believe would benefit fellow ambassadors, please consider submitting a pull request. Your contributions help us create a more comprehensive and diverse repository.
 
 In addition to contributing resources and materials, we encourage ambassadors to initiate various activities such as campaigns, events, discussions, tutorials, or blogs that align with the goals of the Chimoney Ambassadors Program. To propose and organize such activities, please follow these steps:
