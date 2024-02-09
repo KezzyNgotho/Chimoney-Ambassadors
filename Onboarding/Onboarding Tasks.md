@@ -10,7 +10,7 @@
       
 - [ ] Uploaded your image and description [here](https://forms.gle/qnfdTDSVqaC5vAbaA)
 
-- [ ] Joined the Ambassador Discord Channels and Introduced Yourself. 
+- [ ] Joined the Chimoney Community Discord Channel and Introduced Yourself as an Ambassador. 
 
 
 ## Onboarding Completion Instructions:
