@@ -1,6 +1,6 @@
 # Chimoney Ambassador Handbook
 
-**Welcome to the Chimoney Ambassador Program!**
+**Welcome once again to the Chimoney Ambassador Program!**
 
 This handbook serves as your guide to becoming a powerful advocate for our brand, helping us spread awareness, fuel adoption, and shape the future of our technology. As an ambassador, you'll play a crucial role in connecting with diverse audiences - students, professionals, and influencers - through various impactful activities.
 
