@@ -26,9 +26,9 @@
 
 ## Recognition and Rewards
 
-- Ambassador Leaderboard: [TBA]
-- Tiered Reward System: Different levels of rewards (e.g., exclusive merch, early access to features, invitations to special events) based on performance and milestones.
-- Public Recognition on Chimoney's Blog and Social Media.
+- Ambassador Leaderboard: _[TBA]_
+- Tiered Reward System: _Different levels of rewards (e.g., exclusive merch, early access to features, invitations to special events) based on performance and milestones.
+- Public Recognition on Chimoney's Blog and Social Media._
 - Gold Ambassador Level
 
 ## Community Resources
