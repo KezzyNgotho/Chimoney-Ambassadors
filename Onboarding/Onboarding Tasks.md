@@ -1,28 +1,28 @@
 ## Before you begin your journey as an ambassador, please ensure you have completed the following onboarding tasks:
 
-- [x] Read and Understood Onboarding Guide. 
+- x[x] Read and Understood Onboarding Guide. 
 
-- [x] Understood Ambassador Expectations
+- x[x] Understood Ambassador Expectations
 
-- [x] Followed Chimoney on social media platforms for updates.
+- x[x] Followed Chimoney on social media platforms for updates.
 
-- [x] Got your Referral Link.
+- x[x] Got your Referral Link.
       
-- [x] Uploaded your image and description [here](https://forms.gle/qnfdTDSVqaC5vAbaA)
+- x[x] Uploaded your image and description [here](https://forms.gle/qnfdTDSVqaC5vAbaA)
 
-- [x] Joined the Chimoney Community Discord Channel and Introduced Yourself as an Ambassador. 
+- x[x] Joined the Chimoney Community Discord Channel and Introduced Yourself as an Ambassador. 
 
-- [x]  Read and Understood Onboarding Guide. 
+- x[x]  Read and Understood Onboarding Guide. 
 
-- [x] Understood Ambassador Expectations
+- x[x] Understood Ambassador Expectations
 
-- [x] Followed Chimoney on social media platforms for updates.
+- x[x] Followed Chimoney on social media platforms for updates.
 
-- [x] Got your Referral Link.
+- x[x] Got your Referral Link.
       
-- [x] Uploaded your image and description [here](https://forms.gle/qnfdTDSVqaC5vAbaA)
+- x[x] Uploaded your image and description [here](https://forms.gle/qnfdTDSVqaC5vAbaA)
 
-- [x] Joined the Chimoney Community Discord Channel and Introduced Yourself as an Ambassador. 
+- x[x] Joined the Chimoney Community Discord Channel and Introduced Yourself as an Ambassador. 
 
 
 ## Onboarding Completion Instructions:
