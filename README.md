@@ -44,6 +44,5 @@ Your feedback is essential for the continuous improvement of this program. If yo
 
 You can also submit your feedback to this [anonymous form](https://forms.gle/wEviLeD2VskozTmB8).
 
-## Cohort 3 Ambassadors
-![Contributors](https://contrib.rocks/image?repo=Chimoney/Chimoney-Ambassadors)
+
 
